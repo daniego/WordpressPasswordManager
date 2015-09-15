@@ -4,7 +4,7 @@ Plugin Name: Password Manager
 Plugin URI: http://www.daniego.com
 Description: Plugin for store password 
 Author: Daniel Floris
-Version: 0.1 beta
+Version: 0.2 beta
 Author URI: http://www.daniego.com
 License: GPLv2
 */
